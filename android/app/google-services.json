@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "331307680358",
+    "firebase_url": "https://trizdabeta.firebaseio.com",
+    "project_id": "trizdabeta",
+    "storage_bucket": "trizdabeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331307680358:android:b15951541163399eba23a7",
+        "android_client_info": {
+          "package_name": "com.example.trizda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331307680358-bvhpptocp1qp5vamogm9tk2njug988s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trizda",
+            "certificate_hash": "0ad07da7a234196474a0ed99aad2cb96946fe3dc"
+          }
+        },
+        {
+          "client_id": "331307680358-a08o6a1kpq7foc25ngp5nrdrgo1osutb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqyF4QS8ZLhMczOQVoNDePsIlJ8KR4NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331307680358-a08o6a1kpq7foc25ngp5nrdrgo1osutb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331307680358:android:8a112a8b0aa675f0ba23a7",
+        "android_client_info": {
+          "package_name": "com.trizda.shops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331307680358-drl9eqpsv076nvhn0lp0f7fne5lms59t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trizda.shops",
+            "certificate_hash": "0ad07da7a234196474a0ed99aad2cb96946fe3dc"
+          }
+        },
+        {
+          "client_id": "331307680358-a08o6a1kpq7foc25ngp5nrdrgo1osutb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqyF4QS8ZLhMczOQVoNDePsIlJ8KR4NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331307680358-a08o6a1kpq7foc25ngp5nrdrgo1osutb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331307680358:android:e49af1f8fc9bf80cba23a7",
+        "android_client_info": {
+          "package_name": "com.trizda.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331307680358-a6doi6eivkskgq0f9dbm4feskbmv8hlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trizda.user",
+            "certificate_hash": "0ad07da7a234196474a0ed99aad2cb96946fe3dc"
+          }
+        },
+        {
+          "client_id": "331307680358-a08o6a1kpq7foc25ngp5nrdrgo1osutb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqyF4QS8ZLhMczOQVoNDePsIlJ8KR4NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331307680358-a08o6a1kpq7foc25ngp5nrdrgo1osutb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
